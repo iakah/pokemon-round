@@ -2,7 +2,11 @@
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
-## What's next? How do I make an app with this?
+## About this repository
+This is an app where users can vote which is the roundest pokemon and get back the results.
+
+
+## What's next? How do I make an app with T3 stack?
 
 We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
 
